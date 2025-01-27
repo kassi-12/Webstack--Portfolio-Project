@@ -1,0 +1,70 @@
+/* General Styling */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #4cc9f0; /* Light blue background */
+  }
+  
+
+
+/* Table Styling */
+.appointments-table {
+  background-color: white;
+  border: 2px solid orange;
+}
+
+.appointments-table th {
+  background-color: orange;
+  color: white;
+}
+
+.appointments-table td {
+  color: black;
+  border: 1px solid orange;
+}
+
+/* Messages */
+.success-message {
+  color: green; /* Success message color */
+  margin-bottom: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.error-message {
+  color: red; /* Error message color */
+  margin-bottom: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Button Styling */
+.action-link {
+  color: white;
+  background-color: orange;
+  border: 1px solid orange;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.action-link:hover {
+  background-color: black;
+  color: orange;
+  border: 1px solid black;
+}
+
+  
+  .success-message {
+    color: #28a745;
+    margin-bottom: 20px;
+  }
+  
+  .error-message {
+    color: #dc3545;
+    margin-bottom: 20px;
+  }
+  

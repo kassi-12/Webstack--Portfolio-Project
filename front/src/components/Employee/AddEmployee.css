@@ -1,0 +1,185 @@
+/* Sidebar Styling */
+.sidebar {
+    width: 250px;
+    background-color: orange; /* Orange background for sidebar */
+    color: black; /* Black text for sidebar */
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+}
+
+.sidebar .logo img {
+    display: block;
+    margin: 0 auto 30px;
+    width: 120px;
+    border: 2px solid black; /* Black border for logo */
+    border-radius: 10px; /* Rounded logo edges */
+}
+
+.sidebar .nav-links {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+.sidebar .nav-links li {
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+
+.sidebar .nav-links a {
+    color: black; /* Black text for links */
+    text-decoration: none;
+    display: block;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: white; /* White background for links */
+    border: 1px solid orange; /* Orange border */
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.sidebar .nav-links a:hover {
+    background-color: black; /* Black background on hover */
+    color: orange; /* Orange text on hover */
+}
+
+/* Main Content Styling */
+.main-content {
+    flex: 1;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: calc(100% - 250px); /* Adjust for sidebar width */
+    margin-left: 250px; /* Align content next to sidebar */
+    min-height: 100vh; /* Ensure full height */
+}
+
+.form-container {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 300px; /* Reduced max width for smaller forms */
+    box-sizing: border-box;
+}
+
+h2 {
+    font-size: 20px;
+    color: black; /* Black heading text */
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+/* Success and Error Messages */
+.success-message,
+.error-message {
+    font-size: 14px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.success-message {
+    color: #28a745; /* Green for success */
+}
+
+.error-message {
+    color: #dc3545; /* Red for errors */
+}
+
+/* Form Layout */
+.form-row {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.form-column {
+    flex: 1 1 calc(33.333% - 10px); /* Three columns with gap */
+    min-width: 150px;
+    margin-bottom: 10px;
+}
+
+/* Label Styling */
+label {
+    font-size: 12px;
+    font-weight: bold;
+    color: black; /* Black labels */
+    margin-bottom: 6px;
+    display: block;
+}
+
+/* Input Styling */
+input,
+select {
+    width: 100%;
+    padding: 10px;
+    margin: 6px 0;
+    border-radius: 5px;
+    border: 1px solid orange; /* Orange border for inputs */
+    font-size: 12px;
+    box-sizing: border-box;
+}
+
+/* Button Styling */
+button,
+.action-link {
+    display: inline-block;
+    padding: 8px 15px;
+    margin-right: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: white; /* White text */
+    background-color: orange; /* Orange background for buttons */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover,
+.action-link:hover {
+    background-color: black; /* Black background on hover */
+    color: orange; /* Orange text on hover */
+    transform: scale(1.05); /* Slight zoom effect on hover */
+}
+
+button:active,
+.action-link:active {
+    background-color: black; /* Black background for active state */
+    transform: scale(0.98); /* Pressed effect */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .main-content {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .sidebar {
+        position: relative;
+        width: 100%; /* Full width for smaller screens */
+        height: auto;
+    }
+
+    .form-row {
+        flex-direction: column;
+    }
+
+    .form-column {
+        min-width: 100%;
+    }
+
+    button {
+        font-size: 12px; /* Adjust font size for smaller screens */
+        padding: 10px;
+    }
+}

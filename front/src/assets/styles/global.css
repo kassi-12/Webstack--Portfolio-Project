@@ -1,0 +1,15 @@
+/* Ensure body and html take the full height and width */
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 250%;
+    height: 250%;
+    overflow: hidden; /* Prevent scrolling */
+  }
+  
+  body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f6f9;
+    display: flex;
+  }
+  
