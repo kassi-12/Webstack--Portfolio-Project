@@ -1,0 +1,97 @@
+[
+  {
+    "ContainingType": "Resturant.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Resturant.Models.Dto.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "resturant.Controllers.EmployeesController",
+    "Method": "GetEmployees",
+    "RelativePath": "api/employee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "resturant.Controllers.EmployeesController",
+    "Method": "GetEmployeeById",
+    "RelativePath": "api/employee/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "resturant.Controllers.EmployeesController",
+    "Method": "CreateEmployee",
+    "RelativePath": "api/employee/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newEmployee",
+        "Type": "resturant.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "resturant.Controllers.EmployeesController",
+    "Method": "DeleteEmployee",
+    "RelativePath": "api/employee/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "resturant.Controllers.EmployeesController",
+    "Method": "EditEmployee",
+    "RelativePath": "api/employee/edit/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedEmployee",
+        "Type": "resturant.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

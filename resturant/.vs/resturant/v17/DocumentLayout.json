@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|c:\\users\\kassimi\\desktop\\app\\resturant\\resturant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|solutionrelative:resturant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|c:\\users\\kassimi\\desktop\\app\\resturant\\resturant\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|solutionrelative:resturant\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|c:\\users\\kassimi\\desktop\\app\\resturant\\resturant\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|solutionrelative:resturant\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|c:\\users\\kassimi\\desktop\\app\\resturant\\resturant\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|solutionrelative:resturant\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|c:\\users\\kassimi\\desktop\\app\\resturant\\resturant\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|solutionrelative:resturant\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|c:\\users\\kassimi\\desktop\\app\\resturant\\resturant\\models\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|solutionrelative:resturant\\models\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|c:\\users\\kassimi\\desktop\\app\\resturant\\resturant\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|solutionrelative:resturant\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|c:\\users\\kassimi\\desktop\\app\\resturant\\resturant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|solutionrelative:resturant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|c:\\users\\kassimi\\desktop\\app\\resturant\\resturant\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|solutionrelative:resturant\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|c:\\users\\kassimi\\desktop\\app\\resturant\\resturant\\models\\commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|solutionrelative:resturant\\models\\commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|c:\\users\\kassimi\\desktop\\app\\resturant\\resturant\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|solutionrelative:resturant\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|c:\\users\\kassimi\\desktop\\app\\resturant\\resturant\\migrations\\20250122153729_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|solutionrelative:resturant\\migrations\\20250122153729_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|c:\\users\\kassimi\\desktop\\app\\resturant\\resturant\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|solutionrelative:resturant\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|c:\\users\\kassimi\\desktop\\app\\resturant\\resturant\\models\\plat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|solutionrelative:resturant\\models\\plat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|c:\\users\\kassimi\\desktop\\app\\resturant\\resturant\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A1488C-4BFD-418F-ACF8-E3B1D852BA5D}|resturant\\resturant.csproj|solutionrelative:resturant\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "resturant\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "resturant\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwG8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:21:59.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Models\\Dto\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "resturant\\Models\\Dto\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Models\\Dto\\LoginRequest.cs",
+              "RelativeToolTip": "resturant\\Models\\Dto\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:20:18.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "resturant\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "resturant\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA+wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:19:49.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250122153729_1.cs",
+              "DocumentMoniker": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Migrations\\20250122153729_1.cs",
+              "RelativeDocumentMoniker": "resturant\\Migrations\\20250122153729_1.cs",
+              "ToolTip": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Migrations\\20250122153729_1.cs",
+              "RelativeToolTip": "resturant\\Migrations\\20250122153729_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:37:29.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "resturant\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Models\\Reservation.cs",
+              "RelativeToolTip": "resturant\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:34:54.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Plat.cs",
+              "DocumentMoniker": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Models\\Plat.cs",
+              "RelativeDocumentMoniker": "resturant\\Models\\Plat.cs",
+              "ToolTip": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Models\\Plat.cs",
+              "RelativeToolTip": "resturant\\Models\\Plat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:34:53.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "resturant\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "resturant\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:34:46.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "resturant\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Models\\Employee.cs",
+              "RelativeToolTip": "resturant\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:34:45.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Commande.cs",
+              "DocumentMoniker": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Models\\Commande.cs",
+              "RelativeDocumentMoniker": "resturant\\Models\\Commande.cs",
+              "ToolTip": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Models\\Commande.cs",
+              "RelativeToolTip": "resturant\\Models\\Commande.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:34:44.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "resturant\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Models\\Admin.cs",
+              "RelativeToolTip": "resturant\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:34:41.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "resturant\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "resturant\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:33:24.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Program.cs",
+              "RelativeDocumentMoniker": "resturant\\Program.cs",
+              "ToolTip": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Program.cs",
+              "RelativeToolTip": "resturant\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:32:59.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "resturant\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\appsettings.Development.json",
+              "RelativeToolTip": "resturant\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T15:32:58.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\appsettings.json",
+              "RelativeDocumentMoniker": "resturant\\appsettings.json",
+              "ToolTip": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\appsettings.json",
+              "RelativeToolTip": "resturant\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T15:32:56.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "resturant\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kassimi\\Desktop\\app\\resturant\\resturant\\Properties\\launchSettings.json",
+              "RelativeToolTip": "resturant\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T15:31:20.703Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
